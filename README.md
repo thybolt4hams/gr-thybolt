@@ -37,7 +37,7 @@ Currently the block is developed and tested for [Ubuntu 18.04.6 LTS](https://rel
 
 </br>
 
-![alt text](https://github.com//thybolt4hams/gr-thybolt/blob/assets/PDOT-Preamble-detector.png?raw=true)
+![alt text](https://github.com/thybolt4hams/gr-thybolt/blob/main/assets/PDOT-Preamble-detector.png)
 
 <em>The above image is available in assests folder</em>
 </br>
