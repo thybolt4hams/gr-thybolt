@@ -36,8 +36,8 @@ Currently the block is developed and tested for [Ubuntu 18.04.6 LTS](https://rel
 - Default Packet Length : 510 (Thybolts' satellite telemetry packet length)
 
 </br>
- 
-![plot](https://github.com/thybolt4hams/gr-thybolt/assets/PDOT-Preamble-detector.png)
+
+![alt text](https://github.com//thybolt4hams/gr-thybolt/blob/assets/PDOT-Preamble-detector.png?raw=true)
 
 <em>The above image is available in assests folder</em>
 </br>
